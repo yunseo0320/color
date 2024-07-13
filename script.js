@@ -1,4 +1,4 @@
-const CLIENT_ID = 'goodchoiys@chauniv.ac.kr';
+const CLIENT_ID = '990995478350-ea77rr1tdga60rgkbbo11ktrk2ecao87.apps.googleusercontent.com';
 const API_KEY = 'AIzaSyBDfmwnt75LMLSnfQEorK13YHXxQoNGHxY';
 const DISCOVERY_DOCS = ["https://sheets.googleapis.com/$discovery/rest?version=v4"];
 const SCOPES = "https://www.googleapis.com/auth/spreadsheets.readonly";
