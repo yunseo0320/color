@@ -63,7 +63,7 @@
     function listValues() {
       gapi.client.sheets.spreadsheets.values.get({
         spreadsheetId: '1mexFXiMyPFM1oylhGVSjTWAvwJWSfvMRTbTx03JZAyI',
-        range: 'Sheet1!A1:D10',
+        range: 'Sheet1!A1:N110',
       }).then(response => {
         const range = response.result;
         if (range.values.length > 0) {
